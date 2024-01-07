@@ -47,3 +47,13 @@ nav li {
 nav a {
     text-decoration: none;
 }
+.header{
+     background: #FFF8F3;;
+}
+.banner{
+    margin: 30px 30px 30px 150px;
+    display: flex;
+}
+ .banner .profile-pic{ 
+    width: 580px;
+        height: 676px;}
