@@ -35,7 +35,7 @@ nav {
 }
 
 .section-descripton {
-    margin: 150px 168px 234px 145px;
+    border: 150px 168px 234px 145px;
     border: navy;
     padding: 50px 100px 50px 100px;
     
@@ -130,11 +130,16 @@ nav a {
     background: #FFF8F3;
     text-align: center;
     justify-content: space-between;
-    margin: 130px 250px 0px 300px;
+    margin: 0px auto;
 }
 
 .about {
     text-align: center;
-
-
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+    .about-info{
+        text-align: center;
+    }
