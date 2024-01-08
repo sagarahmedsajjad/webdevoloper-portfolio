@@ -199,3 +199,32 @@ font-weight: 700;
     font-weight: 700;
 
 }
+.resume-container{
+    display: flex;
+    gap: 50px;
+    width: 1240px;
+    margin: 0 auto;
+}
+.resume-item-institute{
+    color:  #757575;
+ 
+font-size: 20px;
+ 
+font-weight: 600;
+ 
+}
+.resume-item-description{
+    color:#757575;
+ 
+font-size: 16px;
+ 
+font-weight: 400;
+line-height: 28px;  
+}
+
+.download-again{
+    text-align: center;
+   padding: 50px 800px;
+   
+
+}
